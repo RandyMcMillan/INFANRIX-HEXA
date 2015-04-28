@@ -1,4 +1,6 @@
 
+![image](https://raw.githubusercontent.com/RandyMcMillan/INFANRIX-HEXA/master/vaccin-dc3a9cc3a8s_Page_0001.png)
+
 
 
 
@@ -13,6 +15,7 @@
 
 
 <center>
+
 
 
 
